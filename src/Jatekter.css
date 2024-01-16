@@ -1,0 +1,9 @@
+.Jatekter{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr; 
+    width: 20%;
+    margin: auto;
+    gap: 1em;
+    margin-top: 5em;
+}
+

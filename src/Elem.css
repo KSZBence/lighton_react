@@ -1,0 +1,17 @@
+.lampa{
+    border-radius: 50%;
+    border: 2px solid black;
+    margin: auto;
+    padding: 1em;
+    width: 2em;
+    height: 2em;
+    
+}
+
+.z{
+    background: green;
+}
+
+.p{
+    background: white;
+}
